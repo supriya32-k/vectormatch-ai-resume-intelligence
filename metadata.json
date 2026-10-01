@@ -1,0 +1,8 @@
+{
+  "name": "VectorMatch AI - Resume Intelligence",
+  "description": "Professional AI-powered resume screening and optimization tool using Gemini 3 Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
